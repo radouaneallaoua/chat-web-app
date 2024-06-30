@@ -1,0 +1,14 @@
+img:hover{
+    filter: brightness(120%);
+}
+.img_user:hover{
+    transform: scale(2);
+}
+
+.user:hover{
+  transform: scale(1.1);
+}
+h1.interface:hover{
+    transform: translate(15px);
+ 
+}
